@@ -1,0 +1,6 @@
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\bin\DemoTypeScript.dll.config
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\bin\DemoTypeScript.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\bin\DemoTypeScript.pdb
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\obj\Debug\DemoTypeScript.csprojResolveAssemblyReference.cache
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\obj\Debug\DemoTypeScript.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoTypeScript\obj\Debug\DemoTypeScript.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\DemoBridgeApp.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\DemoBridgeApp.pdb
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.Html5.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.xml
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.Html5.xml
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\obj\Debug\DemoBridgeApp.csprojResolveAssemblyReference.cache
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\obj\Debug\DemoBridgeApp.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\obj\Debug\DemoBridgeApp.pdb
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.QUnit.dll
+C:\Projects\Bridge.NET\DemoBridgeApp\DemoBridgeApp\bin\Debug\Bridge.QUnit.xml
